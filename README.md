@@ -67,11 +67,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
-</p>
-
----
-
 Chanith Adikari <br>
 Last Edited on : 19/06/2025
