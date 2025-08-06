@@ -12,7 +12,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **University of Kelaniya**
 
-- 💬 Ask me about **Web development | Chatbot**
+- 💬 Ask me about **AI Agent | Chatbot**
 
 - 📫 How to reach me **chanithrandila@gmail.com**
   
