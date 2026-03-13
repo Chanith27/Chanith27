@@ -30,23 +30,35 @@
 
 ---
 
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Chanith27)](https://github.com/Chanith27/github-readme-stats" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://nirzak-streak-stats.vercel.app/?user=Chanith27&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
+## 📊 GitHub Stats
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Chanith27&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
+<div align="center">
+
+### 📈 My GitHub Journey
+
+<table>
+<tr>
+<td width="50%">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chanith27&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
+</td>
+<td width="50%">
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Chanith27&theme=radical&hide_border=true)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanith27&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+
+</td>
 </tr>
 </table>
+
+</div>
 
 ---
 
