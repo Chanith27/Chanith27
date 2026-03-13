@@ -40,7 +40,7 @@
 <tr>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chanith27&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![Chanith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanith27&show_icons=true&theme=radical)
 
 </td>
 <td width="50%">
