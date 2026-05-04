@@ -1,83 +1,139 @@
-
-<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
-<h1 align="center">Hi! I'm Chanith Adikari</h1>
-<h3 align="center">IT Undergraduate | AI & Machine Learning Enthusiast | IEEE Member</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Chanith27&label=Profile%20views&color=0e75b6&style=flat" alt="Chanith27" /> </p>
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 🌱 I’m currently learning **Machine Learning**
-
-- 🧑‍🎓 I’m an Undergraduate at **University of Kelaniya**
-
-- 💬 Ask me about **AI Agent | Chatbot**
-
-- 📫 How to reach me **chanithrandila@gmail.com**
-  
-- ⚡ Fun fact **Call me as GreyWolf**
-
-</td>
-<td width="50%" align="center">
-
-  <img align="center" alt="Coding" width="450" src="https://static.wixstatic.com/media/5cfe14_30977ca5f4d04cc2a8977a980baf19a9~mv2.gif">
-
-  
-  </td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-### 📈 My GitHub Journey
+<!-- Header Tag -->
 
-<table>
-<tr>
-<td width="50%">
+<h1>Hi, I'm <b>Chanith Adikari</b></h1>
 
-![Chanith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanith27&show_icons=true&theme=radical)
+<p>IT Undergraduate &nbsp;·&nbsp; AI &amp; ML Enthusiast &nbsp;·&nbsp; IEEE Member</p>
 
-</td>
-<td width="50%">
+<img src="https://komarev.com/ghpvc/?username=Chanith27&label=Profile%20views&color=5849c4&style=flat" alt="Profile Views" />
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Chanith27&theme=radical&hide_border=true)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanith27&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
-
-</td>
-</tr>
-</table>
+<!-- Socials -->
+<p>
+  <a href="https://linkedin.com/in/chanith-adikari-05bb24240/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://twitter.com/@chanithadikari"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" /></a>&nbsp;
+  <a href="https://medium.com/@amradikari67"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" /></a>&nbsp;
+  <a href="https://instagram.com/chanith_adikari_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>&nbsp;
+  <a href="https://fb.com/rajapaksha.adikari.52"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>&nbsp;
+  <a href="mailto:chanithrandila@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 
 </div>
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+## `// about me`
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-
----
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/@chanithadikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@chanithadikari" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chanith-adikari-05bb24240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanith-adikari-05bb24240/" height="30" width="40" /></a>
-<a href="https://fb.com/rajapaksha.adikari.52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajapaksha.adikari.52" height="30" width="40" /></a>
-<a href="https://instagram.com/chanith_adikari_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chanith_adikari_" height="30" width="40" /></a>
-<a href="https://medium.com/@amradikari67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amradikari67" height="30" width="40" /></a>
-</p>
+| | |
+|---|---|
+| 🎓 **University** | University of Kelaniya |
+| 🌱 **Currently Learning** | Machine Learning |
+| 💬 **Ask me about** | AI Agents · Chatbots |
+| ⚡ **Fun fact** | Call me GreyWolf |
+| 📫 **Contact** | chanithrandila@gmail.com |
 
 ---
 
-Chanith Adikari <br>
-Last Edited on : 19/06/2025
+## `// github stats`
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+![Chanith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanith27&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d)
+
+</td>
+<td>
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Chanith27&theme=radical&hide_border=true&background=0d0d0d)
+
+</td>
+</tr>
+</table>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanith27&theme=radical&hide_border=true&bg_color=0d0d0d&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+
+</div>
+
+---
+
+## `// ai agents & llm ecosystem`
+
+**LangChain Stack**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+**Architecture**
+
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-5849c4?style=flat-square&logoColor=white)
+![AI Chatbots](https://img.shields.io/badge/AI%20Chatbots-5849c4?style=flat-square&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-5849c4?style=flat-square&logoColor=white)
+
+---
+
+## `// project & dev collaboration`
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
+
+---
+
+## `// languages & tools`
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?style=flat-square&logo=javafx&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)
+
+**Cloud & Databases**
+
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Design & Tools**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/InDesign-49021F?style=flat-square&logo=adobeindesign&logoColor=FF3366)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=flat-square&logo=cisco&logoColor=black)
+
+---
+
+<div align="center">
+
+<sub>Chanith Adikari &nbsp;·&nbsp; Last edited: 04/05/2026</sub>
+
+</div>
