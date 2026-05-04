@@ -21,19 +21,6 @@
 </div>
 
 ---
-
-## `About Me`
-
-| | |
-|---|---|
-| 🎓 **University** | University of Kelaniya |
-| 🌱 **Currently Learning** | Machine Learning |
-| 💬 **Ask me about** | AI Agents · Chatbots |
-| ⚡ **Fun fact** | Call me GreyWolf |
-| 📫 **Contact** | chanithrandila@gmail.com |
-
----
-
 ## `Github Stats`
 
 <div align="center">
@@ -73,15 +60,11 @@
 ![AI Chatbots](https://img.shields.io/badge/AI%20Chatbots-5849c4?style=flat-square&logoColor=white)
 ![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-5849c4?style=flat-square&logoColor=white)
 
----
-
 ## `Project & Dev Collaboration`
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
-
----
 
 ## `Languages & Tools`
 
