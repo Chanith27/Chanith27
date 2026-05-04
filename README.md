@@ -4,7 +4,7 @@
 
 <h1>Hi, I'm <b>Chanith Adikari</b></h1>
 
-<p>IT Undergraduate &nbsp;·&nbsp; AI &amp; ML Enthusiast &nbsp;·&nbsp; IEEE Member</p>
+<p>IT Undergraduate &nbsp;·&nbsp; AI/ML Engineer Intern &nbsp;·&nbsp; IEEE Member</p>
 
 <img src="https://komarev.com/ghpvc/?username=Chanith27&label=Profile%20views&color=5849c4&style=flat" alt="Profile Views" />
 
@@ -18,7 +18,7 @@
   <a href="mailto:chanithrandila@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
-</div>
+
 
 ---
 ## `Github Stats`
@@ -29,7 +29,7 @@
 <tr>
 <td>
 
-![Chanith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanith27&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d)
+![Chanith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanith27&show_icons=true&theme=radical&hide_border=true)
 
 </td>
 <td>
@@ -42,11 +42,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanith27&theme=radical&hide_border=true&bg_color=0d0d0d&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
-</div>
-
 ---
-
-## `AI Agents & LLM Ecosystem`
+## `Technological Stack`
 
 **LangChain Stack**
 
@@ -60,13 +57,11 @@
 ![AI Chatbots](https://img.shields.io/badge/AI%20Chatbots-5849c4?style=flat-square&logoColor=white)
 ![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-5849c4?style=flat-square&logoColor=white)
 
-## `Project & Dev Collaboration`
+**Project & Dev Collaboration**
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
-
-## `Languages & Tools`
 
 **Languages**
 
